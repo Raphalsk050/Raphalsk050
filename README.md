@@ -1,16 +1,19 @@
-## Hi there 👋
+## About Me
 
-<!--
-**Raphalsk050/Raphalsk050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduated in Software Engineering from the State University of Amazonas (UEA), I’m passionate about creating high-performance, quality solutions. I have a special enthusiasm for developing and designing **game engines**, where I apply my knowledge of software architecture and optimization to deliver robust, scalable systems. 
 
-Here are some ideas to get you started:
+👾 I’ve logged over **3000 hours in Counter-Strike (CS)**—so if you need someone who can pull off a pixel-perfect headshot or clutch a 1v5, I’m your dev! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Languages
+
+- **C++** (primary)
+- Python
+- C
+- C#
+- Starlark
+- JSON
+- JavaScript, HTML & CSS
+
+---
+
+🚀 I’m constantly seeking to learn new tools and patterns, collaborating on projects that value clean code, automated testing, and scalable architecture. Let’s build something amazing together!  
